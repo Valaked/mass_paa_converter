@@ -45,7 +45,7 @@ To use this script just copy the .bat that you want (for the next example i want
 
 ## Works
 
-* **Bohemia Interactive** - *TexView2* - [PurpleBooth](https://community.bistudio.com/wiki/TexView_2)
+* **Bohemia Interactive** - *TexView2* - [TexView2](https://community.bistudio.com/wiki/TexView_2)
 
 
 
