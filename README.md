@@ -11,9 +11,10 @@ Arma 3 tools
 An IDE to convert files into .bat 
 ```
 
-### Installing & Use
+### How It Works
 
-How to install and use it step by step
+The program will take every .paa or .png files in the folder where you put the .bat and the pal2pace, 
+It's gonna proceed every files in the two formats and make it in the wanted format.
 
 ## Installing
 
